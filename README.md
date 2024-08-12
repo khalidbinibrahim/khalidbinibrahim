@@ -31,6 +31,3 @@
 <h3>GitHub Stats</h3>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=khalidbinibrahim&show_icons=true&locale=en" alt="khalidbinibrahim" /></p> 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalidbinibrahim&layout=compact" alt="khalidbinibrahim" /></p>
-
-<h3>Conclusion</h3>
-<p>I'm always eager to learn and grow as a developer. Whether it's through contributing to open-source projects, collaborating on exciting new ventures, or simply connecting with like-minded professionals, I'm open to opportunities that challenge me and help me evolve in my career. Let's connect and create something amazing together!</p>
