@@ -1,7 +1,7 @@
 <h1 align="left">Hey, I'm Khalid Bin Ibrahim 👋</h1>
 
 <h3 align="left">Jr. Frontend Developer</h3>
-<p align="left">I'm a passionate Junior Frontend Developer focused on creating responsive and user-friendly web applications. Currently, I'm enhancing my skills in React and Node.js and exploring full-stack development. I'm excited to contribute to open-source projects and collaborate on innovative solutions.</p>
+<h5 align="left">I'm a passionate Junior Frontend Developer focused on creating responsive and user-friendly web applications. Currently, I'm enhancing my skills in React and Next.js and exploring full-stack development. I'm excited to contribute to open-source projects and collaborate on innovative solutions.</h5>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
